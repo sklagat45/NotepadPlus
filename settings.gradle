@@ -1,0 +1,2 @@
+rootProject.name = "NotepadPlus"
+include ':app'
